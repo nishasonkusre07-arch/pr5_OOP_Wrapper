@@ -345,7 +345,7 @@ Through this project, we learn how **classes, objects, encapsulation, getters, s
 
  # Explanation video :
 
- https://drive.google.com/file/d/1fA64oakfj6yCOQ9R75qk7Hgth0goPSbd/view?usp=drive_link
+https://drive.google.com/file/d/1fA64oakfj6yCOQ9R75qk7Hgth0goPSbd/view?usp=sharing
 
   # connect me : 
 
